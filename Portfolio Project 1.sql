@@ -3,6 +3,15 @@
 --                                By Abhinav Srivastava
 
 
+/*
+
+Covid 19 Data Exploration 
+
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
+
+
 -- Viewing the dataset in the objective
 
 select * from Covid_Insight..covid_deaths$ order by 3, 5           --Death by Covid dataset
